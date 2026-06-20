@@ -130,6 +130,81 @@ Because the annual cap is so low, visas are meted out based on a queue.
 * **Working Post-Green Card:** When the Green Card is approved, you are legally expected to work for the sponsoring employer in the specified job. While there is no statutory limit, immigration lawyers recommend working for the sponsor for **at least 1 to 2 years** to avoid accusations of green card fraud (i.e., taking a job only to get a green card with no intent to perform the work).
 * **Payment Restrictions:** Under U.S. regulations, the **employer must pay 100% of all costs related to the PERM recruitment and attorney fees**. The employee cannot reimburse the employer for these costs. However, the employee is allowed to pay for their own I-140 filing fee, I-485 fee, and associated legal representation for those later steps.
 * **Scams and Predatory Fees:** Many "agencies" target desperate applicants, charging $20,000–$50,000 upfront. Many are fraudulent, matching applicants with shell companies or fake jobs. Always work with licensed, independent U.S. immigration attorneys to vet any agency.
+* **No Work Authorization While Waiting (Outside the U.S.):** If you are applying from Bangladesh, you simply wait at home. There is no document given to you that lets you work anywhere while your EB-3 petition is pending. Only after your Priority Date becomes current AND you receive your immigrant visa can you enter and work in the U.S.
+* **Job Must Stay Identical:** The job offered in your PERM must remain substantially the same throughout the entire process. If the employer changes the job title, duties, or location significantly, the PERM approval may be invalidated and the case must restart.
+
+---
+
+## 💰 Approximate Cost Breakdown
+
+Understanding who pays what is critical. Costs are split between the employer and the employee:
+
+| Cost Item | Who Pays | Approximate Amount |
+| :--- | :--- | :--- |
+| Prevailing Wage Determination (ETA-9141) | **Employer** | Free (government fee waived) |
+| PERM Recruitment Ads (newspaper, job boards) | **Employer** | $1,500 – $5,000 |
+| PERM Attorney Fees | **Employer** | $3,000 – $7,000 |
+| Form I-140 Government Filing Fee | Employer or Employee | $715 |
+| I-140 Premium Processing (optional, 15-day turnaround) | Employer or Employee | $2,805 |
+| NVC Immigrant Visa Processing Fee | **Employee** | $325 per person |
+| NVC Affidavit of Support Fee | **Employee** | $120 |
+| Medical Exam (Panel Physician, Dhaka) | **Employee** | ~$200 – $400 |
+| USCIS Immigrant Fee (paid online before U.S. entry) | **Employee** | $220 |
+| Form I-485 (only if already legally in the U.S.) | **Employee** | $1,440 |
+
+> [!IMPORTANT]
+> The employer **cannot legally require the employee to repay** PERM, attorney, or recruitment fees. If anyone asks you to pay these costs or reimburse the employer, report it to the U.S. Department of Labor Wage and Hour Division at 1-866-4-US-WAGE.
+
+---
+
+## ❌ Common Reasons Applications Are Rejected
+
+Knowing why applications fail can help you avoid the same mistakes:
+
+1. **PERM Audit Failures:** If the DOL audits the PERM and the employer cannot produce complete, clean recruitment records within 30 days, the certification is denied.
+2. **Job Description Too Restrictive:** If the job posting includes unnecessarily restrictive skill requirements for an "unskilled" role (e.g., requiring certifications for a janitor), the DOL may reject the PERM as an attempt to exclude U.S. workers.
+3. **Qualified U.S. Worker Found:** If even one qualified, willing U.S. worker applies and the employer cannot document a lawful, job-related reason for not hiring them, the PERM will be denied.
+4. **I-140 Financial Evidence Insufficient:** If the employer cannot prove via tax returns and financial records that they can pay the prevailing wage, USCIS will deny the I-140 petition.
+5. **Misrepresentation on DS-260:** Any false information on the immigrant visa application — no matter how minor — can result in a permanent bar from ever entering the United States.
+6. **Medical Inadmissibility:** Certain untreated conditions (e.g., active tuberculosis, drug abuse history) can result in denial at the panel physician exam. Many such conditions are treatable and can be waived with documentation.
+7. **Criminal Record:** Any prior conviction must be disclosed. Failure to disclose, or having certain convictions involving "moral turpitude," leads to automatic inadmissibility.
+8. **Public Charge Grounds:** If the applicant cannot demonstrate financial self-sufficiency or the sponsor cannot prove financial support, the visa can be denied under public charge rules.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+**Q: Can I apply for EB-3 Unskilled without a job offer?**
+> No. This category strictly requires an employer to sponsor you. Self-petition is not allowed.
+
+**Q: Can I change employers once my I-140 is approved?**
+> Yes, but only after your I-140 has been approved for at least 180 days AND your I-485 (Adjustment of Status) is pending. This is called "portability" under AC-21. You can move to a same or similar job with a new employer without losing your priority date.
+
+**Q: What happens if the PERM is audited?**
+> An audit is not a denial. It is a request for documentation. The employer must submit all recruitment evidence within 30 days. If the documents are complete and lawful, the PERM will be approved. Approximately 30% of all EB-3 PERMs receive audits.
+
+**Q: Can my spouse and children come with me?**
+> Yes. Your spouse and unmarried children under 21 accompany you as EB-3 derivatives. They receive Green Cards alongside you and have full authorization to work and study in the U.S.
+
+**Q: What if my priority date retrogresses (moves backward on the Visa Bulletin)?**
+> Priority dates occasionally move backward due to high demand. If this happens, you may need to wait additional months or years. Never make irreversible life decisions based on estimated dates — always wait for the official monthly Visa Bulletin.
+
+**Q: How do I verify my Priority Date?**
+> Your Priority Date is printed on your approved PERM Labor Certification (Form ETA-9089). Track the monthly Visa Bulletin at [travel.state.gov](https://travel.state.gov/) under the EB-3 "Other Workers" row.
+
+**Q: Is EB-3 Unskilled the same as EB-3 Skilled?**
+> No. The EB-3 Skilled category is for workers requiring 2+ years of training. EB-3 "Other Workers" (Unskilled) is for positions requiring less than 2 years of training. They share the 40,000 annual EB-3 allocation, but "Other Workers" receives a maximum of only 10,000 of those visas — creating a much longer wait.
+
+---
+
+## 💡 Pro Tips Before You Start
+
+* **Get everything in writing.** Any promise made verbally is meaningless. All terms, job duties, timelines, and fee responsibilities must be in a signed, dated contract before you proceed.
+* **Verify the employer independently.** Search the company name on Google Maps and verify their U.S. physical address. Cross-check with the U.S. Secretary of State's business registration database for the state they operate in.
+* **Use the USCIS Case Status Tool.** Once your attorney files any form with USCIS, you receive a receipt number (e.g., IOE-XXXX-XXXXX). Track your case at any time at [egov.uscis.gov](https://egov.uscis.gov/).
+* **Keep a personal file.** Maintain both a physical binder and a digital folder (backed up to the cloud) containing copies of every document, receipt number, approval notice, and email exchange.
+* **Monitor the Visa Bulletin monthly.** Bookmark [travel.state.gov](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html) and check it every single month. Missing a window can delay your filing by months.
+* **Never overstay any visa.** If you are in the U.S. on a separate non-immigrant visa while your EB-3 is pending, never let that status expire. An overstay of even one day can permanently destroy your ability to adjust status inside the U.S.
 
 ---
 

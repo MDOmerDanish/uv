@@ -109,6 +109,74 @@ Unlike standard U.S. employment, employers have strict cost-coverage mandates:
 * **The Lottery Risk:** The lottery means there is no guarantee of success, even if your business is struggling and desperate for workers.
 * **Proving "Temporary Need":** The Department of Labor strictly audits whether a job is truly temporary. If a business operates year-round (e.g., a standard restaurant or factory), proving that the role is seasonal or peak-load is extremely difficult and often rejected.
 * **Prevailing Wage Requirements:** Sponsoring employers must pay a government-set "prevailing wage" for the role, which can sometimes be higher than what the employer pays their entry-level domestic staff.
+* **No Path to Permanent Residency (Directly):** Like H-2A, the H-2B visa is purely temporary. It does not accumulate any credit toward a Green Card. Transitioning to permanent residency requires starting a completely separate EB-3 petition, which carries the dual-intent risk described above.
+* **Visa Cannot Be Renewed Indefinitely:** After 3 years of continuous H-2B status, a worker must leave the U.S. and physically remain outside for at least 3 months. This "reset" must happen even if an employer desperately wants to renew.
+* **Bangladesh Not on Eligible List:** As of the latest DHS published list, Bangladeshi nationals are not on the designated H-2B eligible countries list. A sponsoring U.S. employer must successfully petition for a National Interest Exception for any Bangladeshi worker — a process that is very rarely approved.
+
+---
+
+## 💰 Approximate Cost Breakdown (H-2B)
+
+| Cost Item | Who Pays | Approximate Amount |
+| :--- | :--- | :--- |
+| Prevailing Wage Determination (ETA-9141) | **Employer** | Free |
+| H-2B DOL Application (ETA-9142B) | **Employer** | $460 – $1,000+ (scales with number of workers) |
+| H-2B Attorney Fees | **Employer** | $2,500 – $7,000 per season |
+| Recruitment Advertising | **Employer** | $500 – $2,000 |
+| Form I-129 USCIS Filing Fee | **Employer** | $460 base + $370 per worker |
+| I-129 Premium Processing (strongly recommended) | **Employer** | $2,805 |
+| Round-trip Travel (Bangladesh to U.S.) | **Employer** | ~$800 – $1,500 per worker |
+| All Tools & Supplies | **Employer** | Provided at no cost to worker |
+| DS-160 Nonimmigrant Visa Fee (MRV) | **Employee** | $190 |
+| Medical Exam (if required by Embassy) | **Employee** | ~$100 – $200 |
+
+> [!IMPORTANT]
+> The employer is **legally required to reimburse** the worker's inbound travel and visa fees in the first workweek if not prepaid. Any agent or recruiter in Bangladesh who demands fees from the worker is violating U.S. law and may be operating a trafficking or fraud scheme.
+
+---
+
+## ❌ Common Reasons H-2B Applications Are Rejected
+
+1. **Lost in the Lottery:** The most common reason is simply not being selected in the DOL randomized lottery. This is not a reflection of the employer's quality — it is a random draw. Roughly 50–60% of applicants are not selected in high-demand seasons.
+2. **Missed Filing Window:** The DOL application must be submitted between 90 and 75 days before the job start date. Filing one day outside this window results in automatic rejection.
+3. **Job Determined to Be Year-Round:** If DOL determines that the employer's business need for labor is not truly seasonal or temporary (e.g., a hotel that operates at the same level all year), the TLC is denied.
+4. **Inadequate U.S. Recruitment Documentation:** Employers must prove through complete documentation that they advertised the job locally, reviewed all applicants, and had lawful reasons to reject any qualified U.S. worker.
+5. **Bangladesh Not on Eligible List:** Without a successful National Interest Exception, any H-2B application naming a Bangladeshi national is automatically ineligible at the USCIS petition stage.
+6. **Immigrant Intent at Embassy Interview:** The consular officer must believe you will return home after the season. Any suggestion that you intend to remain permanently will result in visa denial.
+7. **Prevailing Wage Non-Compliance:** If the employer's offered wage is below the DOL-determined prevailing wage for that occupation and geographic area, the application will be denied.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+**Q: What is the difference between H-2A and H-2B?**
+> H-2A is exclusively for **agricultural** work (farming, harvesting, livestock). H-2B is for all **non-agricultural** temporary work — such as hospitality, landscaping, amusement parks, seafood processing, and construction. The processes are similar but the rules, wage rates, and agencies involved differ.
+
+**Q: What happens if my employer's H-2B application loses the lottery?**
+> Unfortunately, you simply cannot come to the U.S. under H-2B that season. The employer must either wait for the supplemental allocation announcement (if Congress authorizes one), or try again the following season. Money spent on preparation is typically non-refundable.
+
+**Q: Can I switch employers while on H-2B in the U.S.?**
+> Generally, no. H-2B workers are tied to the sponsoring employer. Switching employers requires the new employer to file a completely new H-2B petition for you — which is subject to the cap and lottery again. This effectively makes employer switching during a season almost impossible.
+
+**Q: If I want a Green Card eventually, should I still do H-2B?**
+> Possibly, but with extreme caution. Many workers use H-2B to earn money, build U.S. work experience, and establish relationships with U.S. employers who may later sponsor an EB-3 petition. However, because H-2B is a non-immigrant visa with no dual intent, pursuing a Green Card simultaneously is legally risky and must be managed carefully with an experienced immigration attorney.
+
+**Q: Are there any H-2B visas exempt from the annual cap?**
+> Yes, in limited cases. Workers who were previously counted against the H-2B cap within the last 3 years are exempt from the new cap when returning for another H-2B position. Also, fish roe processors, supervisors, and certain returning workers under the supplemental allocation rules may have separate treatment.
+
+**Q: How do I know if the company offering me H-2B sponsorship is legitimate?**
+> Verify the company exists by searching its name on the U.S. state business registration database (each state has one). Check if they have real online reviews, a physical address on Google Maps, and do not require you to pay any upfront fees. Then independently verify the attorney or agency through their U.S. state bar association (for lawyers) or Better Business Bureau (for agencies).
+
+---
+
+## 💡 Pro Tips for H-2B Workers
+
+* **Arrive exactly on time.** Your H-2B visa is valid only for the job start date specified in the petition. Arriving days early or days late can cause serious complications at the U.S. border. Coordinate travel precisely with your employer.
+* **Understand your I-94 record.** After entering the U.S., your authorized period of stay is recorded on your I-94 arrival record (electronic, accessible at [i94.cbp.dhs.gov](https://i94.cbp.dhs.gov/)). Your visa stamp in your passport and your I-94 end date are different things — always go by the I-94 for how long you are legally allowed to stay.
+* **Do not work beyond your contract end date.** Even one day of unauthorized stay after your I-94 expires is an overstay — a serious violation that can result in deportation and multi-year bars from returning to the U.S.
+* **Document every expense.** Keep receipts for all travel and visa-related expenses so you can claim proper reimbursement from your employer in the first workweek, as required by law.
+* **Build a U.S. reference network.** During your H-2B season, build professional relationships with your supervisor. A strong employer reference letter can be the foundation for a future EB-3 Unskilled sponsorship if the employer is interested in hiring you permanently.
+* **Check your pay every week.** Confirm your hourly pay matches or exceeds the prevailing wage listed in your job order (ETA-9142B). If it does not, contact the **Department of Labor at 1-866-4-US-WAGE** immediately.
 
 ---
 

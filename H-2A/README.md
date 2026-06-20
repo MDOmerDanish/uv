@@ -112,6 +112,73 @@ The law protects H-2A workers from arriving in the U.S. only to find there is no
 * **Strict Seasonality Definition:** The job must be strictly temporary or seasonal. Year-round agricultural work (like dairy farm operations or year-round egg production) typically does not qualify, which is a major hurdle.
 * **Complex Bureaucracy:** Involves three separate government agencies (State Workforce Agency, Department of Labor, USCIS, and the Department of State/Embassy). A single delay at any step can mean workers arrive after the harvest is already over.
 * **Intense Compliance Audits:** The Department of Labor frequently audits H-2A employers to check wage compliance, housing standards, and working conditions. Violations can lead to severe fines and program debarment.
+* **No Path to Permanent Residency:** Unlike EB-3, the H-2A visa does not lead to a Green Card. Each season you must reapply through the same full process — there is no accumulation of "points" or credit that speeds up future applications.
+* **Visa Cannot Be Self-Initiated:** Workers cannot search for H-2A jobs independently on LinkedIn or regular job boards. The visa process must be initiated and led entirely by the U.S. agricultural employer. Workers can only find these opportunities through certified placement agencies or direct employer contact.
+
+---
+
+## 💰 Approximate Cost Breakdown (H-2A)
+
+Costs in the H-2A program are heavily loaded on the employer. Workers pay very little directly:
+
+| Cost Item | Who Pays | Approximate Amount |
+| :--- | :--- | :--- |
+| Form ETA-790/790A (SWA Job Order) | **Employer** | Free |
+| SWA Housing Inspection Fee | **Employer** | Varies by state ($0 – $500) |
+| DOL Application (ETA-9142A) | **Employer** | $100 – $1,000 (varies by workers) |
+| H-2A Attorney Fees | **Employer** | $2,000 – $6,000 per season |
+| Round-trip Travel (Bangladesh to U.S.) | **Employer** | ~$800 – $1,500 per worker |
+| Free Housing (entire contract period) | **Employer** | Provided at no cost to worker |
+| Form I-129 USCIS Filing Fee | **Employer** | $460 base + $370 per worker |
+| DS-160 Nonimmigrant Visa Fee (MRV) | **Employee** | $190 |
+| Medical Exam (if required by Embassy) | **Employee** | ~$100 – $200 |
+
+> [!IMPORTANT]
+> Under H-2A, the employer **must pay or reimburse** all transportation, housing, and meal costs. If a recruiter charges a worker a "placement fee," "processing fee," or "housing deposit," that is a violation of U.S. law. Report it to the Department of Labor at **dol.gov/whd**.
+
+---
+
+## ❌ Common Reasons H-2A Applications Are Rejected
+
+1. **Failure to Meet Filing Deadlines:** The DOL must receive the H-2A application at least 45 days before the work start date. Missing this deadline results in automatic rejection.
+2. **Housing Fails Inspection:** If the employer-provided housing does not pass the SWA pre-occupancy inspection for health and safety standards, the entire application is held up until deficiencies are corrected.
+3. **Inadequate Domestic Recruitment:** If the employer did not post a valid SWA job order for the full 30-day period, or did not properly document why U.S. workers were rejected, the DOL will deny the TLC.
+4. **Non-Seasonal Job:** If the DOL determines the job is year-round in nature (e.g., daily milking of cows 365 days a year), it will deny the application because H-2A is exclusively for temporary or seasonal work.
+5. **Bangladesh Not on Eligible List (for Standard Applications):** For Bangladeshi nationals specifically, the application will be denied unless a National Interest Exception is approved first. Standard H-2A applications without this exception are automatically ineligible.
+6. **Immigrant Intent at Embassy Interview:** If the consular officer believes the worker intends to stay permanently in the U.S. after the contract, the visa will be denied. Strong ties to Bangladesh (family, property, bank account) must be demonstrated convincingly.
+7. **Drug or Criminal History:** Any undisclosed criminal history or positive drug test at the medical exam leads to inadmissibility.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+**Q: Can I extend my H-2A visa beyond the initial contract?**
+> Yes. Your employer can file an extension for you to stay for additional periods, but you cannot exceed a total of **3 years** continuously in the U.S. on H-2A status. After reaching the 3-year limit, you must leave the U.S. for at least 3 months before re-entering on a new H-2A.
+
+**Q: What happens if crops fail and the employer has no work for me?**
+> Under the **3/4ths Guarantee Rule**, the employer is still legally required to pay you for at least 75% of the hours in your work contract — even if there is no actual work available due to crop failure or weather. If an employer refuses to pay this, you can file a complaint with the Department of Labor.
+
+**Q: Can I work for a different farm while on H-2A?**
+> No. Your H-2A visa is tied specifically to your sponsoring employer. Working for any other farm or employer — even temporarily — is a serious immigration violation and grounds for deportation.
+
+**Q: What is the Adverse Effect Wage Rate and how do I know if I am being paid correctly?**
+> The AEWR is a state-specific minimum wage for agricultural workers, updated annually by the DOL. Check the current AEWR for your work state at [dol.gov/agencies/whd/agriculture/h2a](https://www.dol.gov/agencies/whd/agriculture/h2a). Your pay stub should reflect hourly wages at or above this rate.
+
+**Q: Do I pay taxes in the U.S. on my H-2A wages?**
+> H-2A wages are **exempt from Social Security and Medicare (FICA) taxes**, which is a significant benefit. However, your wages are still subject to federal and state income tax withholding. If your annual income is below the standard deduction threshold, you can file a tax return to receive a full refund of withheld federal income taxes.
+
+**Q: Can my family visit me in the U.S. while I am on H-2A?**
+> Your immediate family (spouse and children under 21) can accompany you on H-4 dependent visas, but they are **not permitted to work** in the U.S. on H-4 status. Additionally, the employer is not required to provide housing for dependents — only for the primary H-2A worker.
+
+---
+
+## 💡 Pro Tips for H-2A Workers
+
+* **Always photograph your housing before and after.** When you move into employer-provided housing, document its condition with dated photos and share them with your attorney or a trusted third party. This protects you if there are disputes about damage claims at the end of your contract.
+* **Know your rights card.** The DOL requires employers to give H-2A workers a "Job Order" (ETA-790A) copy explaining all their rights, wages, and housing terms. Read it fully and keep your copy safe.
+* **Do not send money home in ways that leave no trace.** Use formal bank wire transfers (not cash with a courier) to send money home to Bangladesh. Documented remittances can help you demonstrate financial activity if needed in future visa applications.
+* **Save your paystubs.** Keep every single paystub from your employment period. These are proof of lawful earnings and may be required for future visa applications or sponsorships.
+* **Report workplace abuse to the correct authority.** If your employer violates your H-2A rights (underpaying, providing unsafe housing, withholding your passport), contact the **National Human Trafficking Hotline: 1-888-373-7888** or the **Department of Labor at 1-866-4-US-WAGE**.
 
 ---
 
