@@ -15,6 +15,14 @@ The H-2A visa is designed for seasonal farmworkers. To qualify:
 
 ---
 
+## 🇧🇩 Bangladesh-Specific Eligibility Warning
+
+> [!IMPORTANT]
+> **Bangladesh is NOT currently on the designated list of eligible countries for H-2A visas.**
+> Citizens of Bangladesh cannot be approved for H-2A visas unless the U.S. employer requests a special case-by-case exception from USCIS, proving that sponsoring a Bangladeshi worker is in the national interest of the United States. These exceptions are rarely granted.
+
+---
+
 ## 🌾 Critical Concepts & Rules You Must Know
 
 Before pursuing H-2A visas, you must understand these highly specific regulations:
@@ -54,6 +62,35 @@ The law protects H-2A workers from arriving in the U.S. only to find there is no
 * **Strict Seasonality Definition:** The job must be strictly temporary or seasonal. Year-round agricultural work (like dairy farm operations or year-round egg production) typically does not qualify, which is a major hurdle.
 * **Complex Bureaucracy:** Involves three separate government agencies (State Workforce Agency, Department of Labor, USCIS, and the Department of State/Embassy). A single delay at any step can mean workers arrive after the harvest is already over.
 * **Intense Compliance Audits:** The Department of Labor frequently audits H-2A employers to check wage compliance, housing standards, and working conditions. Violations can lead to severe fines and program debarment.
+
+---
+
+## 🇧🇩 Bangladesh-Based Legal Contacts & Representatives
+
+If you are based in Bangladesh and want to consult on H-2A legal procedures or the national interest exception process, you can contact these firms in Dhaka:
+
+* **Ehsan Law (Dhaka Office)**
+  * **Location:** Level-6, A Mazid Tower, Ka-24, Progoti Shoroni (Opposite of Jamuna Future Park), Dhaka-1229
+  * **Phone:** +880 1711-788357
+  * **Email:** info@ehsanlaw.com
+  * **Specialty:** General US immigration consultations, embassy interview prep, and document verification.
+
+* **TRW Law Firm (Tahmidur Rahman Remura Wahid)**
+  * **Location:** House 410, Road 29, Mohakhali DOHS, Dhaka 1206
+  * **Phone:** +880 1708-000660 / +880 1847-220062 / +880 1708-080817
+  * **Email:** info@trfirm.com
+  * **Specialty:** Corporate legal assistance and advisory on global mobility and visa status exceptions.
+
+* **Alice’s Visa and Immigration Service**
+  * **Location:** House # 337, Flat # 1A, Lane # 23, New D.O.H.S., Mohakhali, Dhaka-1206
+  * **Phone:** +880 2222-298945 / +880 2222-280027
+  * **Email:** support@aliceimmigration.com
+  * **Specialty:** Processing assistance, visa file review, and visa application submission services.
+
+* **Rashel’s Law Desk**
+  * **Phone:** +880 1568-525116
+  * **Email:** rashel@rashelslawdesk.com
+  * **Specialty:** General consultations regarding U.S. non-immigrant visas.
 
 ---
 

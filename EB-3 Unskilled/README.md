@@ -63,6 +63,38 @@ Because the annual cap is so low, visas are meted out based on a queue.
 
 ---
 
+## 🇧🇩 Bangladesh-Based Legal Contacts & Representatives
+
+If you are based in Bangladesh, you can consult with the following firms in Dhaka who assist with U.S. immigration advisory, case preparation, and consular processing support:
+
+* **Ehsan Law (Dhaka Office)**
+  * **Location:** Level-6, A Mazid Tower, Ka-24, Progoti Shoroni (Opposite of Jamuna Future Park), Dhaka-1229
+  * **Phone:** +880 1711-788357
+  * **Email:** info@ehsanlaw.com
+  * **Specialty:** Specialized legal consultancy for U.S. employment-based petitions and consular document preparation.
+
+* **TRW Law Firm (Tahmidur Rahman Remura Wahid)**
+  * **Location:** House 410, Road 29, Mohakhali DOHS, Dhaka 1206
+  * **Phone:** +880 1708-000660 / +880 1847-220062 / +880 1708-080817
+  * **Email:** info@trfirm.com
+  * **Specialty:** Handles international corporate clients and business-related U.S. visa processes.
+
+* **Alice’s Visa and Immigration Service**
+  * **Location:** House # 337, Flat # 1A, Lane # 23, New D.O.H.S., Mohakhali, Dhaka-1206
+  * **Phone:** +880 2222-298945 / +880 2222-280027
+  * **Email:** support@aliceimmigration.com
+  * **Specialty:** Document drafting, processing assistance, and interview preparation for overseas employment.
+
+* **Rashel’s Law Desk**
+  * **Phone:** +880 1568-525116
+  * **Email:** rashel@rashelslawdesk.com
+  * **Specialty:** Consultations for U.S. visa files, applications, and embassy filing.
+
+> [!WARNING]
+> The U.S. Embassy in Dhaka does not formally endorse any specific firm. Beware of unauthorized visa brokers claiming they can "guarantee" jobs or Green Cards. Always double-check case details directly on the official U.S. Government visa portal: [USTravelDocs Bangladesh](https://www.ustraveldocs.com/bd/en).
+
+---
+
 ## 📞 Sponsoring Agencies & Specialized Law Firms
 
 Since you cannot self-sponsor, you must work with reputable placement agencies or specialized immigration law firms that handle these applications.
