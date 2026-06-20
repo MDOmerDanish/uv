@@ -23,6 +23,57 @@ The H-2B visa is commonly used for seasonal labor in industries like tourism, ho
 
 ---
 
+## 📋 Step-by-Step Guideline (Granular Sub-tasks)
+
+This checklist breaks down every task required to go from zero to arriving in the U.S. under H-2B (assuming a National Interest Exception is pursued for a Bangladeshi citizen):
+
+### Phase 1: Pre-requisite Checks & Exception Preparation
+- [ ] **Check Eligibility:** Confirm if Bangladesh has been added to the approved H-2B list.
+- [ ] **Draft Exception:** Sponsoring employer prepares the "National Interest Exception" (NIE) letter justifying the employment of a Bangladeshi national.
+- [ ] **Passport Validity Check:** Worker verifies passport is valid for at least 6 months beyond the proposed seasonal contract end date.
+- [ ] **Resume Preparation:** Worker drafts a simple resume detailing previous hospitality, landscaping, or relevant non-agricultural experience.
+
+### Phase 2: Prevailing Wage Request (Employer)
+- [ ] **Job Profiling:** Employer drafts seasonal schedule, location, and specific job duties.
+- [ ] **Submit PWD Request:** Attorney files Form ETA-9141 (Prevailing Wage Request) with the DOL.
+- [ ] **Wait for Wage:** Obtain Prevailing Wage Determination from the DOL (takes 60+ days).
+
+### Phase 3: DOL Application & Seasonal Lottery (Employer)
+- [ ] **Draft Application:** Prepare Form ETA-9142B and the local job order.
+- [ ] **DOL Filing:** Submit the H-2B application to the DOL National Processing Center between 90 and 75 days before the job starts.
+- [ ] **DOL Lottery:** Enter the DOL randomized lottery system.
+- [ ] **Lottery Group Result:** Receive Group assignment (Groups A, B, C, D, etc.).
+- [ ] **Recruitment (Group A):** Sponsoring employer places local ads and interviews U.S. applicants.
+- [ ] **Recruitment Report:** Compile and file the recruitment report with the DOL.
+- [ ] **Receive TLC:** Obtain H-2B Temporary Labor Certification from the DOL.
+
+### Phase 4: Form I-129 USCIS Petition (Employer)
+- [ ] **Draft Petition:** Complete Form I-129 (Petition for a Nonimmigrant Worker).
+- [ ] **Compile Petition Packet:** Attach H-2B TLC, filing fees, and the National Interest Exception request for the Bangladeshi worker.
+- [ ] **Submit to USCIS:** File the petition with USCIS.
+- [ ] **Wait for Approval:** Monitor processing (Premium Processing recommended to get decision within 15 days due to visa cap deadlines).
+- [ ] **Receive Approval:** Obtain Form I-797 approval notice.
+
+### Phase 5: Embassy Visa Processing (You)
+- [ ] **Receive Notice copy:** Employer sends the approved Form I-797 copy to the worker in Bangladesh.
+- [ ] **Fill DS-160:** Complete the online Nonimmigrant Visa Application (Form DS-160).
+- [ ] **Pay Visa Fee:** Pay the visa fee at the designated bank in Dhaka.
+- [ ] **Schedule Interview:** Schedule an appointment at the U.S. Embassy in Dhaka.
+- [ ] **Dhaka Interview:** Attend the interview at the U.S. Embassy. Bring:
+  * Form I-797 approval copy.
+  * Form ETA-9142B / TLC copy.
+  * Clear proof of ties to Bangladesh (employment/family/financial records showing you will return).
+- [ ] **Collect Visa:** Pick up your passport with the H-2B visa stamp.
+
+### Phase 6: U.S. Entry & Seasonal Work (You)
+- [ ] **Travel to U.S.:** Employer purchases or reimburses your flight tickets from Bangladesh to the U.S.
+- [ ] **Pass Border:** Secure your I-94 arrival record at the Port of Entry.
+- [ ] **Report to Work:** Travel to the work site and begin the seasonal job.
+- [ ] **Reimbursements:** Receive reimbursement for visa and inbound travel expenses if not prepaid.
+- [ ] **Return Home:** Leave the U.S. immediately upon completion of the contract.
+
+---
+
 ## ⚙️ Critical Concepts & Rules You Must Know
 
 Before considering the H-2B visa category, you must understand these high-stakes regulations:

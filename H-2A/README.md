@@ -23,6 +23,56 @@ The H-2A visa is designed for seasonal farmworkers. To qualify:
 
 ---
 
+## 📋 Step-by-Step Guideline (Granular Sub-tasks)
+
+This checklist breaks down every task required to go from zero to arriving in the U.S. under H-2A (assuming a National Interest Exception is pursued for a Bangladeshi citizen):
+
+### Phase 1: Pre-requisite Checks & Exception Justification
+- [ ] **Check Eligibility Status:** Check if the U.S. Department of Homeland Security has updated the approved countries list to include Bangladesh.
+- [ ] **Draft Exception Argument:** Sponsoring employer drafts the "National Interest Exception" (NIE) letter explaining why a specific worker from Bangladesh is critical.
+- [ ] **Identify Candidate:** Sponsoring employer selects the agricultural worker candidate.
+- [ ] **Passport Validity:** Worker ensures passport is valid for at least 6 months beyond the proposed work contract period.
+
+### Phase 2: SWA Job Order Filing (Employer)
+- [ ] **Draft Job Order:** Complete Form ETA-790/790A (Agricultural Clearance Order) detailing job duties, pay, free housing, and meals.
+- [ ] **Submit to SWA:** File the job order with the local State Workforce Agency (SWA) between 75 and 60 days before the work start date.
+- [ ] **Housing Inspection:** Employer schedules and passes SWA inspection of the housing provided for the workers.
+- [ ] **Domestic Recruitment:** SWA posts the job locally; employer interviews and hires any qualified U.S. applicants who apply.
+
+### Phase 3: Temporary Labor Certification (Employer)
+- [ ] **DOL Submission:** File the H-2A application (Form ETA-9142A) and copy of the SWA job order with the DOL National Processing Center at least 45 days before the job starts.
+- [ ] **Notice of Acceptance:** Receive approval to recruit from the DOL.
+- [ ] **Publish Recruitment:** Advertise the job as instructed by the DOL.
+- [ ] **Submit Recruitment Report:** Provide a final report to the DOL showing all U.S. recruitment results.
+- [ ] **Receive TLC:** Obtain H-2A Temporary Labor Certification from the DOL.
+
+### Phase 4: Form I-129 USCIS Petition (Employer)
+- [ ] **Draft Form I-129:** Complete the Petition for a Nonimmigrant Worker.
+- [ ] **Attach Documents:** Compile the TLC, filing fees, and the National Interest Exception request for the Bangladeshi worker.
+- [ ] **Submit to USCIS:** File the petition packet with USCIS.
+- [ ] **Wait for Approval:** Monitor processing (approx. 1–2 months, or 15 days if Premium Processing is paid).
+- [ ] **Receive Approval:** Obtain the Form I-797 approval notice.
+
+### Phase 5: Embassy Visa Processing (You)
+- [ ] **Receive I-797 Copy:** Employer sends a copy of the I-797 approval notice to the worker in Bangladesh.
+- [ ] **Fill DS-160:** Complete the online Nonimmigrant Visa Application (Form DS-160).
+- [ ] **Pay Visa Fee:** Pay the machine-readable visa (MRV) fee at the designated bank in Dhaka.
+- [ ] **Schedule Interview:** Book a nonimmigrant visa interview at the U.S. Embassy in Dhaka.
+- [ ] **Dhaka Interview:** Attend the interview at the Embassy. Bring:
+  * Form I-797 approval copy.
+  * Form ETA-790/790A job order.
+  * Evidence of strong ties to Bangladesh (proving you will return home).
+- [ ] **Collect Visa:** Pick up your passport containing the H-2A visa stamp.
+
+### Phase 6: U.S. Entry & Seasonal Work (You)
+- [ ] **Arrange Travel:** Employer coordinates and prepays your travel tickets from Bangladesh to the U.S. farm.
+- [ ] **Border Entry:** Pass through U.S. customs at the Port of Entry and secure your I-94 arrival record.
+- [ ] **Report to Work:** Travel to the work site and move into the employer-provided free housing.
+- [ ] **Complete Contract:** Work the agricultural job (guaranteed 75% of contract hours).
+- [ ] **Return Home:** Depart the U.S. immediately upon completion of the contract period.
+
+---
+
 ## 🌾 Critical Concepts & Rules You Must Know
 
 Before pursuing H-2A visas, you must understand these highly specific regulations:

@@ -20,6 +20,76 @@ In simple terms, almost anyone can qualify for this visa because the educational
 
 ---
 
+## 📋 Step-by-Step Guideline (Granular Sub-tasks)
+
+This checklist breaks down every task required to go from zero to arriving in the U.S.:
+
+### Phase 1: Pre-requisite Checks & Document Preparation (You)
+- [ ] **Check Priority Dates:** Review the latest USCIS/Department of State Visa Bulletin to understand the current backlog wait times.
+- [ ] **Document Collection:** Gather your valid passport, national identity card, birth certificate, and educational certificates (if any).
+- [ ] **Certified Translation:** Translate all non-English documents through an accredited, certified translation agency.
+- [ ] **Digitization:** Scan and save high-resolution, color PDF copies of all documents.
+- [ ] **Resume Update:** Write a simple resume outlining any basic work experience you have.
+
+### Phase 2: Finding a Sponsor or Agency (You)
+- [ ] **Research Agencies:** Review options like BDV Solutions, EB3.work, or contact a licensed U.S. immigration attorney.
+- [ ] **Create Profile:** Open an account on the agency’s client portal.
+- [ ] **Background Check:** Submit to the agency's initial screening process.
+- [ ] **Job Selection:** Browse and select an active unskilled job vacancy from the agency's sponsor list.
+- [ ] **Job Interview:** Conduct a video or phone interview with the U.S. employer.
+- [ ] **Accept Offer:** Receive, sign, and return the formal Job Offer and Employment Agreement.
+- [ ] **Retainer Agreement:** Sign a legal representation agreement with the partner law firm handling the immigration petitions.
+
+### Phase 3: Prevailing Wage Determination (Employer & Attorney)
+- [ ] **Job Profiling:** Sponsoring employer drafts the exact duties, work schedule, and job location requirements.
+- [ ] **Submit PWD Request:** Attorney submits Form ETA-9141 (Prevailing Wage Request) to the Department of Labor (DOL).
+- [ ] **Wage Waiting Period:** Wait for the DOL to issue the wage determination (takes 6–9 months).
+- [ ] **Employer Approval:** Employer signs and agrees to pay the determined wage once the Green Card is approved.
+
+### Phase 4: Mandatory U.S. Recruitment Campaign (Employer)
+- [ ] **State Job Order:** Place a job order listing with the local State Workforce Agency (SWA) for 30 consecutive days.
+- [ ] **Newspaper Ads:** Run print advertisements in two separate Sunday editions of a local newspaper of general circulation.
+- [ ] **Physical Posting:** Post a physical Job Opportunity Notice at the worksite for 10 consecutive business days.
+- [ ] **Review Resumes:** Collect and review resumes submitted by domestic U.S. applicants.
+- [ ] **U.S. Worker Interviews:** Interview any U.S. applicants who meet the minimum job requirements.
+- [ ] **Recruitment Report:** Compile a report documenting lawful, job-related reasons for rejecting any U.S. applicants.
+- [ ] **30-Day Quiet Period:** Wait 30 days after the last ad finishes before submitting the next step.
+
+### Phase 5: PERM Labor Certification Filing (Employer & Attorney)
+- [ ] **Prepare ETA-9089:** Draft the PERM Labor Certification application.
+- [ ] **Sign Application:** Sponsoring employer and applicant review, verify, and sign the draft ETA-9089.
+- [ ] **Submit PERM:** Electronically file Form ETA-9089 with the DOL.
+- [ ] **Wait for Certification:** Wait for DOL approval (takes 10–12 months).
+- [ ] **Audit Response (If Audited):** If the DOL issues an audit, compile recruitment reports, resumes, and ads within 30 days and submit them for review.
+
+### Phase 6: USCIS Immigrant Petition (Form I-140) (Employer & Attorney)
+- [ ] **Receive PERM Approval:** Obtain the certified ETA-9089 document.
+- [ ] **Sponsor Finances:** Employer compiles financial statements and tax returns proving ability to pay the wage.
+- [ ] **Draft Form I-140:** Complete the Immigrant Petition for Alien Worker.
+- [ ] **Select Processing Speed:** Decide whether to pay for Premium Processing ($2,805 for 15-day processing) or use regular processing (6+ months).
+- [ ] **File I-140:** Submit Form I-140, filing fees, and the certified PERM approval to USCIS.
+- [ ] **Receive Notice:** Obtain the Form I-797 Approval Notice.
+
+### Phase 7: National Visa Center (NVC) & Embassy Processing (You)
+- [ ] **Track Priority Date:** Monitor the monthly Visa Bulletin until your PERM filing date becomes current.
+- [ ] **Pay NVC Fees:** Once NVC contacts you, pay the online fee bills (Immigrant Visa Fee & Affidavit of Support Fee).
+- [ ] **Submit DS-260:** Complete the online Immigrant Visa Application (Form DS-260).
+- [ ] **Upload Civil Documents:** Scan and upload all civil documents, police clearances, and translations to the CEAC portal.
+- [ ] **NVC Approval:** Wait for the NVC to mark your case as "Documentarily Qualified" (DQ).
+- [ ] **Embassy Interview Letter:** Receive the official interview date notice.
+- [ ] **Medical Exam:** Schedule and complete a medical exam with an embassy-approved panel physician in Dhaka.
+- [ ] **Dhaka Interview:** Attend your visa interview at the U.S. Embassy in Dhaka (bring original documents).
+- [ ] **Collect Visa:** Pick up your passport containing the immigrant visa stamp.
+
+### Phase 8: U.S. Entry & Work Commencement (You)
+- [ ] **USCIS Immigrant Fee:** Pay the $220 Immigrant Fee online before traveling.
+- [ ] **Travel to U.S.:** Fly to the U.S. and pass through customs (status activates upon entry).
+- [ ] **Report to Employer:** Go immediately to the sponsor's job location.
+- [ ] **Form I-9 & Onboarding:** Fill out Form I-9 with the employer and begin working.
+- [ ] **Receive Documents:** Receive your physical Green Card and Social Security Card by mail.
+
+---
+
 ## ⏳ Step-by-Step Process Timeline
 Understanding the chronological steps is crucial, as the process takes several years:
 
